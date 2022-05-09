@@ -1,4 +1,4 @@
-#Bluepulse
+# Bluepulse
 PoC for attendance based off bluetooth. Detecting how close devices are isn't too straight forward via python, so isn't included. Written and tested on a Raspberry Pi.
 
 ## Install
